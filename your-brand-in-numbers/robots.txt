@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Le pagine HTML contengono il meta robots noindex, nofollow.

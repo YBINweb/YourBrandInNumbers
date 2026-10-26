@@ -1,0 +1,51 @@
+YOUR BRAND IN NUMBERS — versione aggiornata
+=============================================
+
+CONTENUTO
+- Homepage responsive e tre articoli iniziali
+- Pagine Note legali, Privacy Policy e Cookie Policy
+- Email: utilicontact@gmail.com
+- PEC: giuseppe_ippolito1997@pec.it
+- Nessun modulo, newsletter, account, analytics o pixel pubblicitario aggiunto al codice
+
+ANTEPRIMA
+Apri index.html con un browser.
+
+HOSTING GRATUITO CONSIGLIATO: GITHUB PAGES
+GitHub Pages può pubblicare un sito statico HTML/CSS/JS da un repository GitHub Free pubblico.
+Guida ufficiale: https://docs.github.com/en/pages/getting-started-with-github-pages
+Attenzione: il repository e il sito pubblicato sono pubblici. Non caricare documenti privati, credenziali o dati personali non destinati alla pubblicazione.
+Il dominio predefinito è del tipo https://NOMEUTENTE.github.io/NOME-REPOSITORY/; un dominio personalizzato non è necessario e normalmente ha un costo di registrazione.
+
+PUBBLICAZIONE (in sintesi)
+1. Crea un account GitHub, se non ne hai già uno.
+2. Crea un repository pubblico, ad esempio "your-brand-in-numbers".
+3. Carica tutti i file e le cartelle di questo pacchetto nella cartella principale del repository.
+4. Apri Settings > Pages; scegli la pubblicazione dal branch principale (root) e salva.
+5. Attendi la pubblicazione e verifica tutte le pagine da desktop e smartphone.
+
+IMPORTANTE — VERIFICHE LEGALI PRIMA DELLA PUBBLICAZIONE
+- Le pagine legali incluse sono bozze operative, non un parere legale né una certificazione di conformità.
+- La Privacy Policy deve essere completata dopo aver scelto/configurato l'hosting: vanno verificati provider, ruoli privacy, log, conservazione, trasferimenti e condizioni applicabili.
+- Le Note legali segnalano che il domicilio non è stato inserito. L'art. 7 del D.Lgs. 70/2003 prevede informazioni generali del prestatore, incluso domicilio/sede, quando la disposizione è applicabile. Prima di pubblicare, verifica con un professionista se il tuo blog rientra nell'ambito e quale recapito sia necessario indicare.
+- Non è stata indicata una partita IVA perché hai dichiarato di non averla. Se il progetto diventa attività economica/professionale o inizi a offrire consulenze a pagamento, fai verificare preventivamente gli adempimenti fiscali e le informazioni da esporre.
+- La Cookie Policy descrive il codice consegnato, non eventuali cookie o log che la piattaforma di hosting potrà usare. Ricontrolla dopo la pubblicazione. Il Garante chiarisce che per i soli cookie tecnici non è richiesto un banner di consenso, ma l'informativa resta necessaria.
+- Se aggiungi analytics, pixel, video incorporati, mappe, moduli, newsletter o servizi social, aggiorna prima le informative e valuta gli eventuali consensi.
+
+DATI INSERITI
+Responsabile indicato nel progetto: Giuseppe Ippolito
+Email: utilicontact@gmail.com
+PEC: giuseppe_ippolito1997@pec.it
+Partita IVA: non attribuita / non indicata
+Domicilio: da verificare prima della pubblicazione, ove richiesto
+
+
+INDICIZZAZIONE E VISIBILITÀ
+Tutte le pagine HTML includono: noindex, nofollow. Il file robots.txt consente la scansione, così i motori di ricerca possono leggere questa indicazione.
+Il noindex chiede ai motori di ricerca conformi di non mostrare le pagine nei risultati, ma non rende il sito privato: chiunque conosca l'URL può visitarlo. La rimozione dai risultati può richiedere tempo e non è garantita immediatamente.
+
+DATI DI CONTATTO PUBBLICATI
+Giuseppe Ippolito
+Email: utilicontact@gmail.com
+PEC: giuseppe_ippolito1997@pec.it
+Non è stato inserito alcun domicilio.
